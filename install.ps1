@@ -32,3 +32,4 @@ Write-Host ""
 Write-Host "Done." -ForegroundColor Green
 Write-Host "Launch it from the Start Menu / Desktop shortcut 'ChatGPT アカウント切替',"
 Write-Host ("or run: {0}" -f (Join-Path $dest 'ChatGPT-Switcher.cmd'))
+
